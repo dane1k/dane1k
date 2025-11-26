@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
-<h3 align="center">Proactive and detail-oriented Junior Data Engineer with a strong foundation in computer science and hands-on experience in data pipelines, ETL workflows, and cloud-based data tools. Passionate about building scalable solutions, automating processes, and transforming data into insights. Currently pursuing a Diploma in Computer & Information Science and working on multiple real-world data projects.
+<h3 align="center">Funny and proactive Data Engineer, I solve data issues and can build architecture for your project. I do have Diploma of computer science and have an experience with Snowflake, Databricks, Qlik Replicate, Informatica and tools which is connected to that. Passionate about building scalable solutions, automating processes, and transforming data into insights. Currently working as a Data Analyst/Engineer at EY New Zealand.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
